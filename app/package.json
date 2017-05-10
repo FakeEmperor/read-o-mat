@@ -1,0 +1,8 @@
+{
+  "name": "read-o-mat",
+  "main": "./main.prod.js",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
